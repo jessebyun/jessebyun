@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jessebyun/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jessebyun/configure-ad)
-  - [Configuring Network File Shares and Permissions in Active Directory](https://github.com/jessebyun/configure-Fileshares)
+  - [Configuring Network File Shares and Permissions](https://github.com/jessebyun/configure-Fileshares)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jessebyun/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
