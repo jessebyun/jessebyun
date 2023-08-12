@@ -9,6 +9,8 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/jessebyun/configure-ad)
   - [Configuring Network File Shares and Permissions](https://github.com/jessebyun/configure-Fileshares)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jessebyun/azure-network-protocols)
+- <b>Cybersecurity</b>
+  - [Conduct a Security Audit](https://github.com/jessebyun/security-audit)
 
 <h2>🤳Connect with me:</h2>
 
