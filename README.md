@@ -11,6 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jessebyun/azure-network-protocols)
 - <b>Cybersecurity</b>
   - [Conduct a Security Audit](https://github.com/jessebyun/security-audit)
+  - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/jessebyun/NIST-CSF-respond-security-incident)
 
 <h2>🤳Connect with me:</h2>
 
