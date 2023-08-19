@@ -12,6 +12,7 @@
 - <b>Cybersecurity</b>
   - [Conduct a Security Audit](https://github.com/jessebyun/security-audit)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/jessebyun/NIST-CSF-respond-security-incident)
+  - [Use Linux commands to manage file permissions](Linux-file-permissions)
 
 <h2>🤳Connect with me:</h2>
 
