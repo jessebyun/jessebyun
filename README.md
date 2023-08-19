@@ -3,14 +3,14 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/jessebyun/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jessebyun/ticket-lifecycle)
+  - [osTicket: Post-installation configuration](https://github.com/jessebyun/post-install-config)
+  - [osTicket: Ticket lifecycle examples](https://github.com/jessebyun/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jessebyun/configure-ad)
-  - [Configuring Network File Shares and Permissions](https://github.com/jessebyun/configure-Fileshares)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jessebyun/azure-network-protocols)
+  - [Configuring network file shares and permissions](https://github.com/jessebyun/configure-Fileshares)
+  - [Network Security Groups (NSGs) and inspecting network protocols](https://github.com/jessebyun/azure-network-protocols)
 - <b>Cybersecurity</b>
-  - [Conduct a Security Audit](https://github.com/jessebyun/security-audit)
+  - [Conduct a security audit](https://github.com/jessebyun/security-audit)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/jessebyun/NIST-CSF-respond-security-incident)
   - [Use Linux commands to manage file permissions](Linux-file-permissions)
 
