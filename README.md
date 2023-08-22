@@ -13,6 +13,7 @@
   - [Conduct a security audit](https://github.com/jessebyun/security-audit)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/jessebyun/NIST-CSF-respond-security-incident)
   - [Use Linux commands to manage file permissions](https://github.com/jessebyun/Linux-file-permissions.git)
+  - [Apply filters to SQL queries](https://github.com/jessebyun/filters-SQL.git)
 
 <h2>🤳Connect with me:</h2>
 
