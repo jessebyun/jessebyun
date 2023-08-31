@@ -18,7 +18,7 @@
 
 <h2>💻 Software Development Projects:</h2>
 
-- <b>Java</b>
+- <b>Java (Refactoring with Object-Oriented Design)</b>
   - [Mortgage Calculator](https://github.com/jessebyun/java_mortgage_calculator)
 - <b>Python</b>
   - [Project 456](https://github.com/jessebyun/xxx)
