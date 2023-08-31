@@ -19,7 +19,7 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Project 123](https://github.com/jessebyun/xxxxx)
+  - [Mortgage Calculator](https://github.com/jessebyun/java_mortgage_calculator)
 - <b>Python</b>
   - [Project 456](https://github.com/jessebyun/xxx)
 
