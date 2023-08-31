@@ -16,6 +16,13 @@
   - [Apply filters to SQL queries](https://github.com/jessebyun/filters-SQL.git)
   - [Analyze a vulnerable system for a small business](https://github.com/jessebyun/analyze-vulnerability.git)
 
+<h2>💻 Software Development Projects:</h2>
+
+- <b>Java</b>
+  - [Project 123](https://github.com/jessebyun/xxxxx)
+- <b>Python</b>
+  - [Project 456](https://github.com/jessebyun/xxx)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Jesse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
