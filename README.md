@@ -21,7 +21,7 @@
 - <b>Java</b>
   - [Mortgage Calculator (Refactoring with Object-Oriented Design)](https://github.com/jessebyun/java_mortgage_calculator)
 - <b>Python</b>
-  - [Project 456](https://github.com/jessebyun/xxx)
+  - [Project 1](https://github.com/jessebyun/xxx)
 
 <h2>🤳Connect with me:</h2>
 
