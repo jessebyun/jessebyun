@@ -21,7 +21,7 @@
 - <b>Java</b>
   - [Mortgage Calculator (Procedural Code Encapsulation into Object-Oriented Design)](https://github.com/jessebyun/java_mortgage_calculator)
 - <b>Python</b>
-  - [Project 1](https://github.com/jessebyun/xxx)
+  - [Password Generator](https://github.com/jessebyun/python_password_generator)
 
 <h2>🤳Connect with me:</h2>
 
