@@ -20,9 +20,8 @@
 
 - <b>Java</b>
   - [Mortgage Calculator (Procedural Code Encapsulation into Object-Oriented Design)](https://github.com/jessebyun/java_mortgage_calculator)
-- <b>Beginner Python Projects</b>
+- <b>Python Projects</b>
   - [Password Generator](https://github.com/jessebyun/python_password_generator)
-  - [Hangman Game](https://github.com/jessebyun/python_beginner_hangman)
 
 <h2>🤳Connect with me:</h2>
 
