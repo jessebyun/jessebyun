@@ -14,7 +14,7 @@
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/jessebyun/NIST-CSF-respond-security-incident)
   - [Use Linux commands to manage file permissions](https://github.com/jessebyun/Linux-file-permissions.git)
   - [Apply filters to SQL queries](https://github.com/jessebyun/filters-SQL.git)
-  - [Analyze a vulnerable system for a small business](https://github.com/jessebyun/analyze-vulnerability.git)
+  - [Vulnerability Assessment- Analyze a vulnerable system for a small business](https://github.com/jessebyun/analyze-vulnerability.git)
   - [SIEM- Perform a query with Chronicle](https://github.com/jessebyun/query_chronicle)
 
 <h2>💻 Software Development Projects:</h2>
