@@ -8,7 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jessebyun/configure-ad)
   - [Configuring network file shares and permissions](https://github.com/jessebyun/configure-Fileshares)
-  - [Network Security Groups (NSGs) and inspecting network protocols](https://github.com/jessebyun/azure-network-protocols)
+  - [Network Security Groups (NSGs) and inspecting network protocols using Wireshark](https://github.com/jessebyun/azure-network-protocols)
 - <b>Cybersecurity</b>
   - [Conduct a security audit](https://github.com/jessebyun/security-audit)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/jessebyun/NIST-CSF-respond-security-incident)
