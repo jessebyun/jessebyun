@@ -15,7 +15,7 @@
   - [Use Linux commands to manage file permissions](https://github.com/jessebyun/Linux-file-permissions.git)
   - [Apply filters to SQL queries](https://github.com/jessebyun/filters-SQL.git)
   - [Analyze a vulnerable system for a small business](https://github.com/jessebyun/analyze-vulnerability.git)
-  - [Perform a query with Chronicle](https://github.com/jessebyun/query_chronicle)
+  - [SIEM- Perform a query with Chronicle](https://github.com/jessebyun/query_chronicle)
 
 <h2>💻 Software Development Projects:</h2>
 
