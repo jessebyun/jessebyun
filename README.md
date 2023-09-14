@@ -15,7 +15,7 @@
   - [Use Linux commands to manage file permissions](https://github.com/jessebyun/Linux-file-permissions.git)
   - [Apply filters to SQL queries](https://github.com/jessebyun/filters-SQL.git)
   - [Analyze a vulnerable system for a small business](https://github.com/jessebyun/analyze-vulnerability.git)
-  - [TCPDUMP- Capture packet](https://github.com/jessebyun/capture_packet_tcpdump)
+  - [TCPDUMP- Capture a packet](https://github.com/jessebyun/capture_packet_tcpdump)
   - [SIEM- Perform a query with Chronicle](https://github.com/jessebyun/query_chronicle)
 
 <h2>💻 Software Development Projects:</h2>
