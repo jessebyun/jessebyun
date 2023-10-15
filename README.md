@@ -26,7 +26,7 @@
   - [Mortgage Calculator](https://github.com/jessebyun/java_mortgage_calculator)
 - <b>Python</b>
   - [Password Generator](https://github.com/jessebyun/python_password_generator)
-  - [Hangman](https://github.com/jessebyun/hangman_game)
+  - [Hangman](https://github.com/jessebyun/hangman)
   - [Caesar Cipher](https://github.com/jessebyun/caesar_cipher)
   - [Blackjack](https://github.com/jessebyun/blackjack)
   - [Number Guessing Game](https://github.com/jessebyun/number_guessing_game)
