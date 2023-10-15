@@ -31,6 +31,8 @@
   - [Blackjack](https://github.com/jessebyun/blackjack)
   - [Number Guessing Game](https://github.com/jessebyun/number_guessing_game)
   - [Higher Lower Game](https://github.com/jessebyun/higher_lower_game)
+- <b>Intermediate Python Projects</b>
+  - [Coffee Machine (Procedural code and Object Oriented Program)](https://github.com/jessebyun/coffee_machine)
 
 <h2>🤳Connect with me:</h2>
 
