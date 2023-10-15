@@ -22,7 +22,7 @@
 
 <h2>💻 Software Development Projects:</h2>
 
-- <b>Java</b>
+- <b>Beginner Java Projects</b>
   - [Mortgage Calculator](https://github.com/jessebyun/java_mortgage_calculator)
 - <b>Python</b>
   - [Password Generator](https://github.com/jessebyun/python_password_generator)
