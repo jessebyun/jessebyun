@@ -23,7 +23,7 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Mortgage Calculator](https://github.com/jessebyun/java_mortgage_calculator)
+  - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
 - <b>Beginner Python Projects</b>
   - [Password Generator](https://github.com/jessebyun/python_password_generator)
   - [Hangman](https://github.com/jessebyun/hangman)
@@ -32,8 +32,8 @@
   - [Number Guessing Game](https://github.com/jessebyun/number_guessing_game)
   - [Higher Lower Game](https://github.com/jessebyun/higher_lower_game)
 - <b>Intermediate Python Projects</b>
-  - [Coffee Machine](https://github.com/jessebyun/coffee_machine)
-  - [Quiz Game](https://github.com/jessebyun/quiz_game)
+  - [Coffee Machine (OOP)](https://github.com/jessebyun/coffee_machine)
+  - [Quiz Game (OOP)](https://github.com/jessebyun/quiz_game)
   - [Hirst Painting](https://github.com/jessebyun/hirst_painting)
   - [Etch-A-Sketch](https://github.com/jessebyun/etch_sketch)
 
