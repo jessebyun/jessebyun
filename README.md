@@ -35,6 +35,7 @@
   - [Coffee Machine](https://github.com/jessebyun/coffee_machine)
   - [Quiz Game](https://github.com/jessebyun/quiz_game)
   - [Hirst Painting](https://github.com/jessebyun/hirst_painting)
+  - [Etch-A-Sketch App](https://github.com/jessebyun/etch_sketch)
 
 <h2>🤳Connect with me:</h2>
 
