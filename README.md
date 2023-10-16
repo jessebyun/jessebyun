@@ -36,6 +36,7 @@
   - [Quiz Game (OOP)](https://github.com/jessebyun/quiz_game)
   - [Hirst Painting](https://github.com/jessebyun/hirst_painting)
   - [Etch-A-Sketch](https://github.com/jessebyun/etch_sketch)
+  - [Turtle Race](https://github.com/jessebyun/turtle_race)
 
 <h2>🤳Connect with me:</h2>
 
