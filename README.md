@@ -38,7 +38,7 @@
   - [Etch-A-Sketch](https://github.com/jessebyun/etch_sketch)
   - [Turtle Race](https://github.com/jessebyun/turtle_race)
   - [Snake Game (OOP)](https://github.com/jessebyun/snake_game)
-  - [Pong Game (OOP)](https://github.com/jessebyun/pong_game)
+  - [Pong Game (OOP)-----need to update](https://github.com/jessebyun/pong_game)
 
 <h2>🤳Connect with me:</h2>
 
