@@ -39,7 +39,7 @@
   - [Turtle Race](https://github.com/jessebyun/turtle_race)
   - [Snake Game (OOP)](https://github.com/jessebyun/snake_game)
   - [Pong Game (OOP)](https://github.com/jessebyun/pong_game)
-  - [Turtle Crossing (OOP)-----------update](https://github.com/jessebyun/turtle_crossing)
+  - [Turtle Crossing (OOP)](https://github.com/jessebyun/turtle_crossing)
 
 <h2>🤳Connect with me:</h2>
 
