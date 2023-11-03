@@ -41,6 +41,7 @@
   - [Pong Game (OOP)](https://github.com/jessebyun/pong_game)
   - [Turtle Crossing (OOP)](https://github.com/jessebyun/turtle_crossing)
   - [U.S. States Game](https://github.com/jessebyun/us_states_game)
+  - [NATO Phonetic Alphabet](https://github.com/jessebyun/nato_phonetic_alphabet)
 
 <h2>🤳Connect with me:</h2>
 
