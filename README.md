@@ -43,7 +43,7 @@
   - [U.S. States Game](https://github.com/jessebyun/us_states_game)
   - [NATO Phonetic Alphabet](https://github.com/jessebyun/nato_phonetic_alphabet)
   - [Miles to Kilometer Converter](https://github.com/jessebyun/miles_km_converter)
-  - [AI Probabilities using Baye's Theorem](https://github.com/jessebyun/bayes_theorem)
+  - [Using Baye's Theorem in AI Decision-Making](https://github.com/jessebyun/bayes_theorem)
 
 <h2>🤳Connect with me:</h2>
 
