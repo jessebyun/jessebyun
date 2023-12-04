@@ -22,7 +22,7 @@
 
 <h2>💻 Software Development Projects:</h2>
 
-- <b>Java</b>
+- <b>Java Projects</b>
   - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
   - [Political Affiliation Survey](https://github.com/jessebyun/political_affiliation_survey)
 - <b>Beginner Python Projects</b>
