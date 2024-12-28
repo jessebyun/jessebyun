@@ -48,8 +48,7 @@
   - [Using Baye's Theorem in AI Decision-Making](https://github.com/jessebyun/bayes_theorem)
 
 <h2>TryHackMe</h2>
-[<img src="https://tryhackme-badges.s3.amazonaws.com/mikasa55.png" alt="Your Image Badge" />][tryhackme]
-[tryhackme]: https://tryhackme.com/r/p/mikasa55
+<img src="https://tryhackme-badges.s3.amazonaws.com/mikasa55.png" alt="Your Image Badge" />
 
 <h2>🤳Connect with me:</h2>
 
