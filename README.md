@@ -47,6 +47,9 @@
   - [Miles to Kilometer Converter](https://github.com/jessebyun/miles_km_converter)
   - [Using Baye's Theorem in AI Decision-Making](https://github.com/jessebyun/bayes_theorem)
 
+<h2>TryHackMe</h2>
+<img src="https://tryhackme-badges.s3.amazonaws.com/mikasa55.png" alt="Your Image Badge" />
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Jesse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
