@@ -25,7 +25,7 @@
 - <b>Java Projects</b>
   - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
   - [Tic-Tac-Toe Game](https://github.com/jessebyun/tic-tac-toe_java)
-  - [Political Survey (OOP)](https://github.com/jessebyun/javapoliticalsurvey)
+  - [Political Survey (OOP)](https://github.com/jessebyun/javapoliticalsurveyOOP)
 - <b>Beginner Python Projects</b>
   - [Password Generator](https://github.com/jessebyun/python_password_generator)
   - [Hangman](https://github.com/jessebyun/hangman)
