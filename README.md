@@ -1,6 +1,6 @@
-<h1>Hi, I'm Jesse, an <a href="https://linkedin.com/in/JesseByun">IT Professional</a></h1>
+<h1>Hi, I'm Jesse! <br> <a href="https://linkedin.com/in/JesseByun">Programmer, Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 👨‍💻 Information Technology Projects:
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-installation configuration](https://github.com/jessebyun/post-install-config)
@@ -9,7 +9,9 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/jessebyun/configure-ad)
   - [Configuring network file shares and permissions](https://github.com/jessebyun/configure-Fileshares)
   - [Network Security Groups (NSGs) and inspecting network protocols using Wireshark](https://github.com/jessebyun/azure-network-protocols)
-- <b>Cybersecurity</b>
+
+## 🔐 Cybersecurity Projects:
+
   - [Conduct a security audit](https://github.com/jessebyun/security-audit)
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/jessebyun/NIST-CSF-respond-security-incident)
   - [Use Linux commands to manage file permissions](https://github.com/jessebyun/Linux-file-permissions.git)
@@ -20,8 +22,10 @@
   - [Update a file through a Python algorithm](https://github.com/jessebyun/update_file_python_algorithm)
   - [tcpdump- Analyze network traffic](https://github.com/jessebyun/tcpdump_analyze_traffic)
 
-<h2>💻 Software Development Projects:</h2>
+## 💻 Software Development Projects:
 
+- <b>Data Structures and Algorithms Practice</b>
+  - [Practicing DS & Algos in Java](https://github.com/jessebyun/PracticeDS&AlgoJava)
 - <b>Java Projects</b>
   - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
   - [Tic-Tac-Toe Game](https://github.com/jessebyun/tic-tac-toe_java)
@@ -48,13 +52,13 @@
   - [Using Baye's Theorem in AI Decision-Making](https://github.com/jessebyun/bayes_theorem)
 
 <!-- note  -->
-<h2>TryHackMe</h2>
+## TryHackMe Profile
 <a href="https://tryhackme.com/r/p/mikasa55">
     <img src="https://tryhackme-badges.s3.amazonaws.com/mikasa55.png" alt="Your Image Badge" />
 </a>
 
 
-<h2>🤳Connect with me:</h2>
+## 🤳Connect with me:
 
 [<img align="left" alt="Jesse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jesse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
