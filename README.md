@@ -25,7 +25,7 @@
 ## 💻 Software Development Projects:
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Practicing DS & Algos in Java](https://github.com/jessebyun/PracticeDS-AlgoJava.git)
+  - [Practicing DS & Algos in Java](https://github.com/jessebyun/PracticeDSAJava.git)
 - <b>Java Projects</b>
   - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
   - [Tic-Tac-Toe Game](https://github.com/jessebyun/tic-tac-toe_java)
