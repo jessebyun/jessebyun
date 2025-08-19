@@ -28,7 +28,8 @@
   - [Practicing DS & Algos in Java](https://github.com/jessebyun/Practicing-DSA-in-Java.git)
 - <b>Java Projects</b>
   - [Political Survey (OOP)](https://github.com/jessebyun/PoliticalSurveyOOP)
-- <b>Beginner Java Projects</b>
+- <b>Beginner Projects</b>
+### Java
   - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
   - [Tic-Tac-Toe Game](https://github.com/jessebyun/tic-tac-toe_java)
 - <b>Beginner Python Projects</b>
