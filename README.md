@@ -27,17 +27,17 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [Practicing DS & Algos in Java](https://github.com/jessebyun/Practicing-DSA-in-Java.git)
 - <b>Java Projects</b>
+  - [Political Survey (OOP)](https://github.com/jessebyun/PoliticalSurveyOOP)
+- <b>Beginner Java Projects</b>
   - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
   - [Tic-Tac-Toe Game](https://github.com/jessebyun/tic-tac-toe_java)
-  - [Political Survey (OOP)](https://github.com/jessebyun/PoliticalSurveyOOP)
-- <b>Beginner Python Projects</b>
+- <b>Intermediate Python Projects</b>
   - [Password Generator](https://github.com/jessebyun/python_password_generator)
   - [Hangman](https://github.com/jessebyun/hangman)
   - [Caesar Cipher](https://github.com/jessebyun/caesar_cipher)
   - [Blackjack](https://github.com/jessebyun/blackjack)
   - [Number Guessing Game](https://github.com/jessebyun/number_guessing_game)
   - [Higher Lower Game](https://github.com/jessebyun/higher_lower_game)
-- <b>Intermediate Python Projects</b>
   - [Coffee Machine (OOP)](https://github.com/jessebyun/coffee_machine)
   - [Quiz Game (OOP)](https://github.com/jessebyun/quiz_game)
   - [Hirst Painting](https://github.com/jessebyun/hirst_painting)
