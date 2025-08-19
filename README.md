@@ -28,29 +28,30 @@
   - [Practicing DS & Algos in Java](https://github.com/jessebyun/Practicing-DSA-in-Java.git)
 - <b>Java Projects</b>
   - [Political Survey (OOP)](https://github.com/jessebyun/PoliticalSurveyOOP)
-- <b>Beginner Projects</b>
-  -  ### Java
-  - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
-  - [Tic-Tac-Toe Game](https://github.com/jessebyun/tic-tac-toe_java)
-- <b>Beginner Python Projects</b>
-  - [Password Generator](https://github.com/jessebyun/python_password_generator)
-  - [Hangman](https://github.com/jessebyun/hangman)
-  - [Caesar Cipher](https://github.com/jessebyun/caesar_cipher)
-  - [Blackjack](https://github.com/jessebyun/blackjack)
-  - [Number Guessing Game](https://github.com/jessebyun/number_guessing_game)
-  - [Higher Lower Game](https://github.com/jessebyun/higher_lower_game)
-  - [Coffee Machine (OOP)](https://github.com/jessebyun/coffee_machine)
-  - [Quiz Game (OOP)](https://github.com/jessebyun/quiz_game)
-  - [Hirst Painting](https://github.com/jessebyun/hirst_painting)
-  - [Etch-A-Sketch](https://github.com/jessebyun/etch_sketch)
-  - [Turtle Race](https://github.com/jessebyun/turtle_race)
-  - [Snake Game (OOP)](https://github.com/jessebyun/snake_game)
-  - [Pong Game (OOP)](https://github.com/jessebyun/pong_game)
-  - [Turtle Crossing (OOP)](https://github.com/jessebyun/turtle_crossing)
-  - [U.S. States Game](https://github.com/jessebyun/us_states_game)
-  - [NATO Phonetic Alphabet](https://github.com/jessebyun/nato_phonetic_alphabet)
-  - [Miles to Kilometer Converter](https://github.com/jessebyun/miles_km_converter)
+- <b>Probability Project</b>
   - [Using Baye's Theorem in AI Decision-Making](https://github.com/jessebyun/bayes_theorem)
+- <b>Beginner Projects</b>
+  - Java
+    - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
+    - [Tic-Tac-Toe Game](https://github.com/jessebyun/tic-tac-toe_java)
+  - Python
+    - [Password Generator](https://github.com/jessebyun/python_password_generator)
+    - [Hangman](https://github.com/jessebyun/hangman)
+    - [Caesar Cipher](https://github.com/jessebyun/caesar_cipher)
+    - [Blackjack](https://github.com/jessebyun/blackjack)
+    - [Number Guessing Game](https://github.com/jessebyun/number_guessing_game)
+    - [Higher Lower Game](https://github.com/jessebyun/higher_lower_game)
+    - [Coffee Machine (OOP)](https://github.com/jessebyun/coffee_machine)
+    - [Quiz Game (OOP)](https://github.com/jessebyun/quiz_game)
+    - [Hirst Painting](https://github.com/jessebyun/hirst_painting)
+    - [Etch-A-Sketch](https://github.com/jessebyun/etch_sketch)
+    - [Turtle Race](https://github.com/jessebyun/turtle_race)
+    - [Snake Game (OOP)](https://github.com/jessebyun/snake_game)
+    - [Pong Game (OOP)](https://github.com/jessebyun/pong_game)
+    - [Turtle Crossing (OOP)](https://github.com/jessebyun/turtle_crossing)
+    - [U.S. States Game](https://github.com/jessebyun/us_states_game)
+    - [NATO Phonetic Alphabet](https://github.com/jessebyun/nato_phonetic_alphabet)
+    - [Miles to Kilometer Converter](https://github.com/jessebyun/miles_km_converter)
 
 <!-- note  -->
 ## TryHackMe Profile
