@@ -29,7 +29,7 @@
 - <b>Java Projects</b>
   - [Political Survey (OOP)](https://github.com/jessebyun/PoliticalSurveyOOP)
 - <b>Beginner Projects</b>
-### Java
+  -  ### Java
   - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
   - [Tic-Tac-Toe Game](https://github.com/jessebyun/tic-tac-toe_java)
 - <b>Beginner Python Projects</b>
