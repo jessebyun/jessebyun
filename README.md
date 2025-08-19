@@ -31,7 +31,7 @@
 - <b>Beginner Java Projects</b>
   - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
   - [Tic-Tac-Toe Game](https://github.com/jessebyun/tic-tac-toe_java)
-- <b>Intermediate Python Projects</b>
+- <b>Beginner Python Projects</b>
   - [Password Generator](https://github.com/jessebyun/python_password_generator)
   - [Hangman](https://github.com/jessebyun/hangman)
   - [Caesar Cipher](https://github.com/jessebyun/caesar_cipher)
