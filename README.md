@@ -28,7 +28,7 @@
   - [Practicing DS & Algos in Java](https://github.com/jessebyun/Practicing-DSA-in-Java.git)
 - <b>Java Projects</b>
   - [Political Survey (OOP)](https://github.com/jessebyun/PoliticalSurveyOOP)
-- <b>Probability Project</b>
+- <b>Probability Projects</b>
   - [Using Baye's Theorem in AI Decision-Making](https://github.com/jessebyun/bayes_theorem)
 - <b>Beginner Projects</b>
   - Java
