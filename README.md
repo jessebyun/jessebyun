@@ -31,7 +31,7 @@
   - [Using Baye's Theorem in AI Decision-Making (Python)](https://github.com/jessebyun/bayes_theorem)
 - <b>Beginner Projects</b>
   - [Java](https://github.com/jessebyun/beginner_projects_java)
-  - [Python]
+  - [Python](https://github.com/jessebyun/beginner_projects_python)
     - [Password Generator](https://github.com/jessebyun/python_password_generator)
     - [Hangman](https://github.com/jessebyun/hangman)
     - [Caesar Cipher](https://github.com/jessebyun/caesar_cipher)
