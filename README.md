@@ -32,7 +32,6 @@
 - <b>Beginner Projects</b>
   - [Java](https://github.com/jessebyun/beginner_projects_java)
   - [Python](https://github.com/jessebyun/beginner_projects_python)
-    - [Password Generator](https://github.com/jessebyun/python_password_generator)
     - [Hangman](https://github.com/jessebyun/hangman)
     - [Caesar Cipher](https://github.com/jessebyun/caesar_cipher)
     - [Blackjack](https://github.com/jessebyun/blackjack)
