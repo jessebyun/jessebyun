@@ -32,7 +32,7 @@
 - <b>Beginner Projects</b>
   - [Java](https://github.com/jessebyun/beginner_projects_java)
   - [Python](https://github.com/jessebyun/beginner_projects_python)
-    - [Hangman](https://github.com/jessebyun/hangman)
+ 
     - [Caesar Cipher](https://github.com/jessebyun/caesar_cipher)
     - [Blackjack](https://github.com/jessebyun/blackjack)
     - [Number Guessing Game](https://github.com/jessebyun/number_guessing_game)
