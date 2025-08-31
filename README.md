@@ -31,9 +31,7 @@
   - [Using Baye's Theorem in AI Decision-Making (Python)](https://github.com/jessebyun/bayes_theorem)
 - <b>Beginner Projects</b>
   - [Java](https://github.com/jessebyun/beginner_projects_java)
-    - [Mortgage Calculator (OOP)](https://github.com/jessebyun/java_mortgage_calculator)
-    - [Tic-Tac-Toe Game](https://github.com/jessebyun/tic-tac-toe_java)
-  - Python
+  - [Python]
     - [Password Generator](https://github.com/jessebyun/python_password_generator)
     - [Hangman](https://github.com/jessebyun/hangman)
     - [Caesar Cipher](https://github.com/jessebyun/caesar_cipher)
