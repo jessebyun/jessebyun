@@ -32,22 +32,6 @@
 - <b>Beginner Projects</b>
   - [Java](https://github.com/jessebyun/beginner_projects_java)
   - [Python](https://github.com/jessebyun/beginner_projects_python)
- 
-
-    - [Blackjack](https://github.com/jessebyun/blackjack)
-    - [Number Guessing Game](https://github.com/jessebyun/number_guessing_game)
-    - [Higher Lower Game](https://github.com/jessebyun/higher_lower_game)
-    - [Coffee Machine (OOP)](https://github.com/jessebyun/coffee_machine)
-    - [Quiz Game (OOP)](https://github.com/jessebyun/quiz_game)
-    - [Hirst Painting](https://github.com/jessebyun/hirst_painting)
-    - [Etch-A-Sketch](https://github.com/jessebyun/etch_sketch)
-    - [Turtle Race](https://github.com/jessebyun/turtle_race)
-    - [Snake Game (OOP)](https://github.com/jessebyun/snake_game)
-    - [Pong Game (OOP)](https://github.com/jessebyun/pong_game)
-    - [Turtle Crossing (OOP)](https://github.com/jessebyun/turtle_crossing)
-    - [U.S. States Game](https://github.com/jessebyun/us_states_game)
-    - [NATO Phonetic Alphabet](https://github.com/jessebyun/nato_phonetic_alphabet)
-    - [Miles to Kilometer Converter](https://github.com/jessebyun/miles_km_converter)
 
 <!-- note  -->
 ## TryHackMe Profile
