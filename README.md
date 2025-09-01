@@ -1,4 +1,5 @@
-<h1>Hi, I'm Jesse! <br> <a href="https://linkedin.com/in/JesseByun">Programmer, Cybersecurity Professional</a></h1>
+<!-- <h1>Hi, I'm Jesse! <br> <a href="https://linkedin.com/in/JesseByun">Programmer, Cybersecurity Professional</a></h1> -->
+<h1>Jesse's Portfolio <br>Cybersecurity and software development projects</h1>
 
 ## 👨‍💻 Information Technology Projects:
 
