@@ -29,7 +29,7 @@
   - [Practicing DS & Algos in Java](https://github.com/jessebyun/Practicing-DSA-in-Java.git)
 - <b>Projects</b>
   - [Political Survey (Java)](https://github.com/jessebyun/PoliticalSurveyOOP)
-  - [Using Baye's Theorem in Statistical Decision-Making underr Uncertainty(Python)](https://github.com/jessebyun/bayes_theorem)
+  - [Using Baye's Theorem in Statistical Decision-Making under Uncertainty(Python)](https://github.com/jessebyun/bayes_theorem)
 - <b>Beginner Projects</b>
   - [Java](https://github.com/jessebyun/beginner_projects_java)
   - [Python](https://github.com/jessebyun/beginner_projects_python)
